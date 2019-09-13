@@ -3,6 +3,8 @@ public class A {
 	private float A2;
 
 	//alteracao xxxx
+	
+	alterado no servidor github
 
 	public int getA1(){
 		return A1;

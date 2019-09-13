@@ -1,7 +1,9 @@
 public class A {
 	private int A1;
 	private float A2;
-	//alteracao 
+
+	//alteracao xxxx
+
 	public int getA1(){
 		return A1;
 	}
